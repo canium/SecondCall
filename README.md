@@ -11,3 +11,6 @@
 
 [TODO]: 
 - case-insensitive trigger match
+
+**ARE YOU EVER COMING BACK CANIUM?** 
+***THERE ARE SOME OF US STILL WAITING***
